@@ -1,0 +1,21 @@
+.navbar-brand {
+    height: auto;
+}
+
+.navbar-brand img {
+    width: 100px;
+    margin-right: 20px;
+}
+
+.navbar-brand .title {
+    display: inline-block;
+}
+
+.book-list__top-seller-image {
+    width: 120px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
